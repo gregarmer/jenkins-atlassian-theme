@@ -297,9 +297,17 @@ td.progress-bar-done {
     display: none;
 }
 
+#view-message {
+    background-color: #fff !important;
+}
+
 #view-message #description a img {
     padding-right: 4px;
 
+}
+
+#main-panel-content {
+    background-color: #fff !important;
 }
 
 #main-panel {
