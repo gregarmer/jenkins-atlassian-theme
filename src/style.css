@@ -505,7 +505,20 @@ tr.permission-row:nth-child(even) {
     background-image: radial-gradient(circle at 3px 3px, #f0ad4e 0%, #d58512 100%);
 }
 
+.build-row-cell .pane.build-name .display-name,
+.build-row-cell .indent-multiline {
+    padding-left: 30px !important;
+}
 
+#side-panel-content, #main-panel-content {
+    margin: 15px;
+    margin-bottom: 130px;
+}
 
+.bottom-sticker-inner {
+    margin-bottom: 50px;
+}
 
-
+.row {
+    margin-right: 0px;
+}
