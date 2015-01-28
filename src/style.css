@@ -512,13 +512,4 @@ tr.permission-row:nth-child(even) {
 
 #side-panel-content, #main-panel-content {
     margin: 15px;
-    margin-bottom: 130px;
-}
-
-.bottom-sticker-inner {
-    margin-bottom: 50px;
-}
-
-.row {
-    margin-right: 0px;
 }
